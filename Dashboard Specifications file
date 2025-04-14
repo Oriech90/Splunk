@@ -1,25 +1,32 @@
-## Dashboard Specifications
+# Dashboard Specifications
 
-1. what it's main goal? KPI?
-    goal / [list of KPIs]
+## 1. Main Goal and KPIs
+- **Main Goal:** What is the dashboard’s primary purpose? What key performance indicators (KPIs) will it track?
+- **KPIs:** List or describe the KPIs that will be used.
 
-2. Does it requires inputs?
-    yes / no
+## 2. Input Requirements
+- **Does it require inputs?**  
+  - Yes / No
 
-3. Should it be interactive? 
-  3.1. Create a token management table: 
-        token | description | affects | affected by
+## 3. Interactivity
+- **Interactive Dashboard:** Should the dashboard be interactive?
+  - **Token Management Table:**  
+    Create a table to manage tokens with the following fields:
+    - **Token**
+    - **Description**
+    - **Affects**
+    - **Affected By**
 
-4. visualizations
-  4.1. viz1
-        4.1.2. viz style?
-        4.1.2. drilldown?
-        4.1.3. selection should impact other components? (bar/line/area chart)
-        4.1.4. tokens manipulation
-  4.2. viz2
-        4.2.2. viz style?
-        4.2.2. drilldown?
-        4.2.3. selection should impact other components? (bar/line/area chart)
-        4.2.4. tokens manipulation
+## 4. Visualizations
 
-      
+### 4.1. Visualization 1 (viz1)
+- **Visualization Style:** 
+- **Drilldown:** 
+- **Component Interaction:** 
+- **Tokens Manipulation:** 
+
+### 4.2. Visualization 2 (viz2)
+- **Visualization Style:** 
+- **Drilldown:** 
+- **Component Interaction:** 
+- **Tokens Manipulation:** 
