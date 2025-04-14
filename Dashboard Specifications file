@@ -1,0 +1,25 @@
+## Dashboard Specifications
+
+1. what it's main goal? KPI?
+    goal / [list of KPIs]
+
+2. Does it requires inputs?
+    yes / no
+
+3. Should it be interactive? 
+  3.1. Create a token management table: 
+        token | description | affects | affected by
+
+4. visualizations
+  4.1. viz1
+        4.1.2. viz style?
+        4.1.2. drilldown?
+        4.1.3. selection should impact other components? (bar/line/area chart)
+        4.1.4. tokens manipulation
+  4.2. viz2
+        4.2.2. viz style?
+        4.2.2. drilldown?
+        4.2.3. selection should impact other components? (bar/line/area chart)
+        4.2.4. tokens manipulation
+
+      
