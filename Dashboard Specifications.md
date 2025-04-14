@@ -19,13 +19,13 @@
 
 ## 4. Visualizations
 
-### 4.1. Visualization 1 (viz1)
+### 4.1. Visualization 1
 - **Visualization Style:** 
 - **Drilldown:** 
 - **Component Interaction:** 
 - **Tokens Manipulation:** 
 
-### 4.2. Visualization 2 (viz2)
+### 4.2. Visualization 2
 - **Visualization Style:** 
 - **Drilldown:** 
 - **Component Interaction:** 
